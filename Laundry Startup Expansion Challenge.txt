@@ -1,4 +1,4 @@
-Section 8 Challenge
+Laundry Startup Expansion Challenge
 
 You are a Data Scientist working fora laundry-pickup services startup
 WeWashUSleep. This is a relatively small company and they cannot
